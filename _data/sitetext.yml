@@ -15,14 +15,14 @@ services:
         desc: "We submit your application to up to seven banks to get you the best rate, at NO cost to you?"
         icon: fas fa-home
         link: 
-          url: mailto:evoup@evogroup.co.za?subject=Mail from evo UP website
+          url: mailto:martinsf0448@gmail.com?subject=Mail from evo First Bonds website
           text: "Email Us"
       - title: "Pre-qualification"
         desc: "One of our experts will help check your credit record, income and expenses to give you an accurate assessment of what you can afford. We let you know how likely you are to qualify for a bond."
         icon: fas fa-tasks       
         link:
-          url: tel:+27210232228
-          text: "Call: 021 023 2228"
+          url: tel:+27xxx
+          text: "Call: xxx xxx xxxx"
       - title: "I’m Still Looking for a Home"
         desc: "I’m searching property portals and visiting show houses"
         icon: fas fa-search
@@ -47,7 +47,7 @@ calculators:
 
 
 textblock:
-    title: "Why evo Up"
+    title: "Why evo First Bonds"
     text: "Home loans are our business, and we focus on getting bonds approved."
     footer: "Our service is completely FREE, with no obligation."
     section: textblock
@@ -71,13 +71,13 @@ portfolio:
     
 about:
     title: "About Us"
-    text2: "Evo Up is a bond origination and insurance procurement company servicing the entirety of South Africa. We have origination channels with all the major Banks and access to a network of professional Financial Advisors. Our team consists of experienced business professionals with skills ranging from expert bond origination, financial advisory and project implementation. Our services are underpinned by specialist digital systems and process management tools. <br>
+    text2: "Evo First Bonds is passionate about helping home buyers secure their dream home by assisting with the homeloan. We have an origination channel with all the major Banks and our team consists of experienced business professionals who are experts in bond origination. Our services are underpinned by specialist digital systems and process management tools. <br>
     
     <br> 
-    Evo Up is dedicated to operational excellence from a service level and optimal client outcome perspective. We seek to procure the best interest rates for our clients within an impressive turnaround time. Our team have more than 50 years of combined experience within the financial services industry and service more than 1000 clients. <br>
+    Evo FirstBonds is dedicated to excellence with a client focussed ethos. Our goal is to get you the best interest rates within an impressive turnaround time. Our team hase over 20 years of honeloan experience with 100s of satisfied customers. <br>
     
     <br>
-    We are proud to be associated with Evo, who is a part of the ooba Group."
+    We are proud to be associated with and part of Evo who is a part of the ooba Group."
     
 clients:
     title: Bank Partners
@@ -116,38 +116,16 @@ team:
     section: team
     contact: 
     people:
-      - name: "Michelle Mostert"
+      - name: "F Martins"
         role: "Head of Homeloans"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/xxx.jpg
         social:
-          - url: tel:084 433 6333
+          - url: tel:xxx xxx xxx
             icon: fas fa-phone
-          - url: mailto:mailto:michelle.mostert@evogroup.co.za?subject=Website Enquiry
+          - url: mailto:mailto:martinsf0448@gmail.com?subject=Website Enquiry
             icon: fas fa-envelope
           # - url: https://facebook.com
           #   icon: fab fa-facebook-f
-
-      - name: "Charles Marais"
-        role: "Executive Director"
-        image: assets/img/team/gavin-young.jpg
-        social:
-          - url: tel:072 594 2141
-            icon: fas fa-phone
-          - url: mailto:charles.marais@evogroup.co.za?subject=Website Enquiry
-            icon: fas fa-envelope
-          # - url: https://www.linkedin.com/in/eben-roux-854923135/
-          #   icon: fab fa-linkedin-in
-
-      - name: "Claudia Holtzhauzen"
-        role: "Bond Administrator"
-        image: assets/img/team/Claudia Holtzhauzen - Evo Up - Bond Administrator.jpg
-        social:
-          - url: tel:071 157 1484
-            icon: fas fa-phone
-          - url: mailto:claudia.holtzhauzen@evogroup.co.za?subject=Website Enquiry
-            icon: fas fa-envelope
-          # - url: https://www.linkedin.com/in/eben-roux-854923135/
-          #   icon: fab fa-linkedin-in
 
 contact:
     title: "Contact Us"
