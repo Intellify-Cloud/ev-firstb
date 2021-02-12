@@ -13,16 +13,16 @@ background: grey
   <div class="row">
 
   <div class="col-md">
-		<p>Tel: <a href="tel:+27xxx">xxx</a></p>
-		<p>Cell: <a href="tel:+27xxx">xxx</a></p>
-		<p>E-mail: <a href="mailto:martinsf0448@gmail.com?subject=Mail from our Website">martinsf0448@gmail.com</a></p>
+		<!-- <p>Tel: <a href="tel:+27xxx">xxx</a></p> -->
+		<p>Cell: <a href="tel:+27823303232">xxx</a></p>
+		<p>E-mail: <a href="mailto:mario.martins@evogroup.co.za?subject=Mail from our Website">mario.martins@evogroup.co.za</a></p>
     </div>
 
     <div class="col-md">
-		<p>Unit xxx, Building</p>
-		<p>C/O xxx Drive & xxx Avenue</p>
-		<p>xxx</p>
-		<p>xxx</p>
+		<p>4 Davie Street</p>
+		<p>Aldora Park</p>
+		<p>Randburg</p>
+		<p>2194</p>
     </div>
     
   </div>
