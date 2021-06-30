@@ -23,3 +23,11 @@ logo:
   path: /assets/xxx.png
 
 exclude: [node_modules,webpack-config.js,package.json,package-lock.json]
+
+group: evo Group
+
+company: evo First Bonds
+
+url: www.evofirstbonds.co.za
+
+address: 4 Davie Street, Aldora Park, Randburg, 2194

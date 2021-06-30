@@ -14,7 +14,7 @@ background: grey
 
   <div class="col-md">
 		<!-- <p>Tel: <a href="tel:+27xxx">xxx</a></p> -->
-		<p>Cell: <a href="tel:+27823303232">xxx</a></p>
+		<!-- <p>Cell: <a href="tel:+27xxx">xxx</a></p> -->
 		<p>E-mail: <a href="mailto:mario.martins@evogroup.co.za?subject=Mail from our Website">mario.martins@evogroup.co.za</a></p>
     </div>
 
