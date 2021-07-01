@@ -118,7 +118,7 @@ team:
     people:
       - name: "Mario Martins"
         role: "Head of Homeloans"
-        image: assets/img/team/xxx.jpg
+        image: assets/img/team/300x300.jpg
         social:
           - url: tel:082 330 3232 
             icon: fas fa-phone
